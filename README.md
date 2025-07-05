@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/imjdl-nmap-mcpserver-badge.png)](https://mseep.ai/app/imjdl-nmap-mcpserver)
+
 # Nmap MCP Server
 
 This is a Model Control Protocol (MCP) server that provides access to nmap network scanning functionality.
